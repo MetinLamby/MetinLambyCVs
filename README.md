@@ -4,6 +4,8 @@ I am passionate about solving complex problems in the field of Financial Technol
 
 
 ![alt text](https://github.com/MetinLamby/MetinLambyCVs/blob/main/bewerbungsbild2024.jpg =250x)
+<img src="https://github.com/MetinLamby/MetinLambyCVs/blob/main/bewerbungsbild2024.jpg" alt="alt text" width="200"/>
+
 
 
 ## Education:
