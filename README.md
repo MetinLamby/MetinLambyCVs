@@ -2,7 +2,8 @@
 
 I am passionate about solving complex problems in the field of Financial Technology and look for opportunities to learn and grow my technical skillset and my understanding of financial markets.
 
-![](https://github.com/MetinLamby/MetinLambyCVs/blob/main/bewerbungsbild2024.jpg =100x20)
+![alt text]([http://url/to/img.png](https://github.com/MetinLamby/MetinLambyCVs/blob/main/bewerbungsbild2024.jpg) =100x20)
+
 
 
 ## Education:
